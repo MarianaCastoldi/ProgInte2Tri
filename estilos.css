@@ -11,6 +11,10 @@
   background-color:lightyellow;
 }
 
+h1 {
+  color: chocolate;
+}
+
 .cartao {
   width: 260px;
   height: 200px;
@@ -25,6 +29,7 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+  background-color: ghostwhite;
 }
 
 main {
